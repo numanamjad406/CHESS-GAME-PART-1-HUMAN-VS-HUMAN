@@ -19,7 +19,7 @@
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)
 ![Mode](https://img.shields.io/badge/Mode-Human%20vs%20Human-green?style=flat-square)
-![Phase](https://img.shields.io/badge/Phase-3%20(Part%201)-orange?style=flat-square)
+![Phase](https://img.shields.io/badge/Phase-1%20-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 </div>
